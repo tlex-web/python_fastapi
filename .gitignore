@@ -1,0 +1,9 @@
+# config files
+.vscode
+config.ini
+
+# virtual enviroment
+venv
+
+# python files
+__pycache__
